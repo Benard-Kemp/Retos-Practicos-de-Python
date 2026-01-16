@@ -120,7 +120,7 @@ Diseño de sistemas, estado, resiliencia, scheduling y observabilidad.
 
 Todos los retos incluyen tests con pytest.
 
---
+---
 
 ## 🛠 Requisitos
 
