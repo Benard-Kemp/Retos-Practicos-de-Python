@@ -40,7 +40,7 @@ Fundamentos de Python: strings, listas, bucles, funciones, errores comunes.
 #	Reto	Enlace
 1	[Invertir una cadena de forma segura](https://github.com/Benard-Kemp/Python-Reto-1-Invertir-una-cadena-de-forma-segura) 
 
-2	Contar palabras en una frase	🔗
+2	[Contar palabras en una frase](https://github.com/Benard-Kemp/Python-Reto-2-Contar-palabras-en-una-frase)
 
 3	Encontrar el máximo en una lista	🔗
 
