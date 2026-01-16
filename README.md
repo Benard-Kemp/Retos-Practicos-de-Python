@@ -42,23 +42,23 @@ Fundamentos de Python: strings, listas, bucles, funciones, errores comunes.
 
 2	[Contar palabras en una frase](https://github.com/Benard-Kemp/Python-Reto-2-Contar-palabras-en-una-frase)
 
-3	Encontrar el máximo en una lista	🔗
+3	[Encontrar el máximo en una lista](https://github.com/Benard-Kemp/Python-Reto-3-Encontrar-el-m-ximo-en-una-lista)
 
-4	Frecuencia de caracteres en una cadena	🔗
+4	[Frecuencia de caracteres en una cadena](https://github.com/Benard-Kemp/Python-Reto-4-Frecuencia-de-caracteres-en-una-cadena)
 
-5	Filtrar números pares	🔗
+5	[Filtrar números pares](https://github.com/Benard-Kemp/Python-Reto-5-Filtrar-n-meros-pares-de-una-lista)
 
-6	Sumar valores válidos en una lista	🔗
+6	[Palíndromo (ignorando espacios y mayúsculas)](https://github.com/Benard-Kemp/Python-Reto-6-Pal-ndromo-ignorando-espacios-y-may-sculas-)
 
-7	Validar emails simples	🔗
+7	[Sumar valores en una lista (sin usar sum)](https://github.com/Benard-Kemp/Python-Reto-7-Sumar-valores-en-una-lista-sin-usar-sum-)
 
-8	Contar vocales en un texto	🔗
+8	[FizzBuzz (versión limpia y testeable)](https://github.com/Benard-Kemp/Python-Reto-8-FizzBuzz-versi-n-limpia-y-testeable-)
 
-9	Comprobar palíndromos	🔗
+9	[Contar vocales en una cadena](https://github.com/Benard-Kemp/Python-Reto-9-Contar-vocales-en-una-cadena)
 
-10	Eliminar duplicados preservando orden	🔗
+10	[Normalizar nombres (trim + title case)](https://github.com/Benard-Kemp/Python-Reto-10-Normalizar-nombres-trim-title-case-)
 
-11	Manejo básico de excepciones	🔗
+11	[Manejo básico de excepciones]()
 
 12	Funciones con parámetros opcionales	🔗
 
