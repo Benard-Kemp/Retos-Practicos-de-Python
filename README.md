@@ -7,3 +7,15 @@ Este repositorio actúa como índice central que enlaza todos los retos, cada un
 * solución explicada,
 * código limpio,
 * tests con pytest.
+
+## 🎯 Objetivo del proyecto
+
+SolveConPython está creado para:
+
+* aprender Python resolviendo problemas reales,
+* desarrollar pensamiento lógico y estructurado,
+* practicar buenas prácticas desde el inicio,
+* preparar el camino hacia proyectos de nivel profesional.
+
+No es teoría aislada.
+Aquí cada reto es código ejecutable.
