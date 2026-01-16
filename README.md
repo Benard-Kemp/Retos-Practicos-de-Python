@@ -70,3 +70,33 @@ Fundamentos de Python: strings, listas, bucles, funciones, errores comunes.
 
 16	[Merge de dos listas ordenadas](https://github.com/Benard-Kemp/Python-Reto-16-Merge-de-dos-listas-ordenadas)
 
+---
+
+## 🟡 Retos Intermedios
+
+Trabajo con archivos, validación, parsing, algoritmos y estructuras más reales.
+
+#	Reto	Enlace
+17	[Contar ocurrencias con collections.Counter (comparativa)](https://github.com/Benard-Kemp/Python-Reto-17-Contar-ocurrencias-con-collections.Counter-comparativa-)
+
+18	[Ordenar una lista de diccionarios por múltiples campos](https://github.com/Benard-Kemp/Python-Reto-18-Ordenar-una-lista-de-diccionarios-por-m-ltiples-campos)
+
+19	[Generador de contraseñas (con reglas)](https://github.com/Benard-Kemp/Python-Reto-19-Generador-de-contrase-as-con-reglas-)
+
+20	[Manejo robusto de errores (try/except bien hecho)](https://github.com/Benard-Kemp/Python-Reto-20-Manejo-robusto-de-errores-try-except-bien-hecho-)
+
+21	[Parsear logs y extraer métricas](https://github.com/Benard-Kemp/Python-Reto-21-Parsear-logs-y-extraer-m-tricas)
+
+22	[]()
+
+23	[]()
+
+24	[]()
+
+25	[]()
+
+26	[]()
+
+27	[]()
+
+28	[]()
