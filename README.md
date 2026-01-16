@@ -100,3 +100,48 @@ Trabajo con archivos, validación, parsing, algoritmos y estructuras más reales
 27	[]()
 
 28	[]()
+
+---
+
+## 🔴 Retos Avanzados / Real World
+
+Diseño de sistemas, estado, resiliencia, scheduling y observabilidad.
+
+#	Reto	Enlace
+29	Cola de tareas con workers y reintentos	🔗
+30	Scheduler con cron simple	🔗
+31	Integración Scheduler + TaskQueue	🔗
+32	Persistencia y recuperación de estado	🔗
+33	Observabilidad: logs estructurados y métricas	🔗
+
+---
+
+## 🧪 Tests
+
+Todos los retos incluyen tests con pytest.
+
+--
+
+## 🛠 Requisitos
+
+* Python 3.9+
+* Editor recomendado: VS Code
+* Ganas de aprender resolviendo problemas 😉
+
+---
+
+## 🚀 Recomendación de progreso
+
+* Principiantes: 1–16
+* Intermedios: 17–28
+* Avanzados: 29–33
+
+Cada bloque prepara el siguiente.
+
+---
+
+## 📌 Filosofía
+
+Python se aprende resolviendo problemas reales.
+
+| Si llegaste hasta aquí, empieza por el Reto #1 y avanza paso a paso.
