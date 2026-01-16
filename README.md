@@ -58,15 +58,15 @@ Fundamentos de Python: strings, listas, bucles, funciones, errores comunes.
 
 10	[Normalizar nombres (trim + title case)](https://github.com/Benard-Kemp/Python-Reto-10-Normalizar-nombres-trim-title-case-)
 
-11	[Manejo básico de excepciones]()
+11	[Validar email (reglas simples)](https://github.com/Benard-Kemp/Python-Reto-11-Validar-email-reglas-simples-)
 
-12	Funciones con parámetros opcionales	🔗
+12	[Convertir una lista en un diccionario (índice → valor)](https://github.com/Benard-Kemp/Python-Reto-12-Convertir-una-lista-en-un-diccionario-ndice-valor-)
 
-13	Validar entrada del usuario	🔗
+13	[Agrupar elementos por clave](https://github.com/Benard-Kemp/Python-Reto-13-Agrupar-elementos-por-clave)
 
-14	Convertir tipos de datos de forma segura	🔗
+14	[Eliminar duplicados preservando el orden](https://github.com/Benard-Kemp/Python-Reto-14-Eliminar-duplicados-preservando-el-orden)
 
-15	Leer CSV y calcular métricas (sin pandas)	🔗
+15	[Leer un CSV y calcular métricas (sin pandas)](https://github.com/Benard-Kemp/Python-Reto-15-Leer-un-CSV-y-calcular-m-tricas-sin-pandas-)
 
-16	Merge de dos listas ordenadas	🔗
+16	[Merge de dos listas ordenadas](https://github.com/Benard-Kemp/Python-Reto-16-Merge-de-dos-listas-ordenadas)
 
